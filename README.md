@@ -6,6 +6,11 @@ Theme inspired by GDScript editor in Godot Engine.
 Theme file has been changed on top of the one from this repository:  
 https://github.com/tomasr/molokai
 
+## Screenshots
+
+### Python
+<img width="400px" src="https://user-images.githubusercontent.com/28411337/184508285-7daa056e-b8a8-4dd7-a3ba-54b05eca4fbb.png" />
+
 ## Install
 
 ### Neovim
