@@ -9,10 +9,10 @@ https://github.com/tomasr/molokai
 ## Install
 
 ### Neovim
-Put file in `.config/nvim/colors`
+Put file in `~/.config/nvim/colors`
 
 ### Vim
-Put file in `.vim/colors`
+Put file in `~/.vim/colors`
 
 ## Use
 
